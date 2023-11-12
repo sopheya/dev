@@ -1,3 +1,3 @@
 # dev
 
-I like mac
+I like Linux
