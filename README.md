@@ -1,3 +1,3 @@
 # dev
 
-I like Linux
+We like Linux
